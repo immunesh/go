@@ -20,7 +20,7 @@ func Main() {
 		LastName:    "Kushwah",
 		Age:         30,
 		PhoneNumber: "1234567890",
-		Email:       "munesh6181@gmai.com",
+		Email:       "munesh6181@gmail.com",
 		BirthDate:   time.Date(1993, 1, 1, 0, 0, 0, 0, time.UTC), // Example birth date
 	}
 
